@@ -1,0 +1,9 @@
+127.0.0.1  localhost
+
+::1  localhost
+
+
+
+# hulu
+
+127.0.0.1 ads-e-darwin.hulustream.com
